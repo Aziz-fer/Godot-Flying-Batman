@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/gAME oVER - Too High.mp3-55d4c0e5be24ba1a97be3f325f5e7a7f.mp3str"
+
+[deps]
+
+source_file="res://art/gAME oVER - Too High.mp3"
+dest_files=[ "res://.import/gAME oVER - Too High.mp3-55d4c0e5be24ba1a97be3f325f5e7a7f.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
